@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "594871234652",
+    "firebase_url": "https://livepulp-cfa77-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "livepulp-cfa77",
+    "storage_bucket": "livepulp-cfa77.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594871234652:android:1b79fe62c27fc0e323f699",
+        "android_client_info": {
+          "package_name": "com.exampl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkXQU93R0cArqWZ1UBDuquSA2rjB2dgWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594871234652:android:fccc1ae4137ac87c23f699",
+        "android_client_info": {
+          "package_name": "com.example.launcher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkXQU93R0cArqWZ1UBDuquSA2rjB2dgWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
